@@ -1,0 +1,10 @@
+{
+  "_comment": "Брендбук. Claude обновляет его после анализа роликов из references/ (шаг 3).",
+  "canvas": {"width": 1080, "height": 1920, "fps": 30},
+  "font": {"name": "DejaVu Sans", "bold": true, "size": 78},
+  "colors": {"text": "#FFFFFF", "highlight": "#FF8A1F", "outline": "#000000", "accent": "#FF8A1F"},
+  "subtitles": {"words_per_chunk": 3, "position": "lower_third", "uppercase": false, "outline": 6, "karaoke_highlight": true},
+  "cuts": {"silence_db": -32, "min_silence_sec": 0.35, "padding_sec": 0.08},
+  "audio": {"music_volume": 0.08, "loudnorm": true},
+  "title": {"text": "", "duration_sec": 3, "size": 96}
+}
